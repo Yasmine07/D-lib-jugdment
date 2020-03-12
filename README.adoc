@@ -10,16 +10,19 @@ Plan
 
 Rapport sur les sites web explorés
 
-rAvantages de  web-site
+Avantages de  web-site
 
-Website est une open souce en ligne qui permet de créer son  site web
+Web-site est une open souce en ligne qui permet de créer son  site 
 
--Points négatifs :
-Quelques options payantes mais pas toutes (formulaires par exemple à l’air d’être payant et pourtant capital dans notre travail de site)
+Points négatifs 
+Quelques options payantes mais pas toutes (formulaires par exemple est payant et pourtant indispensenble à notre travail)
 
 Points positifs
 -Nombre important de thèmes environ 200 (prédéfini)
 -Facilité de manipulabilité/maniable facilement
--Possibilité d’ajouter des vidéos
+-Possibilité d’ajouter des vidéos (primordial pour nous)
 
-- www.Googlesites.com  fonctionnalités semblent très intéressantes et en plus c’est 
+un autre site exploré est googlesites
+- www.Googlesites.com
+ 
+ 
