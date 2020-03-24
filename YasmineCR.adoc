@@ -1,0 +1,169 @@
+= Compte rendu
+
+Mon stage a débuté le 24/02/2020 au laboratoire LAMSADE.
+Cela fait en effat trois semaines que je travaille sur le thème: Exploration expérimentale du jugement délibéré sur la décision d'établir une cantine scolaire végane.
+Le plan suivant fut adopté en commun accord avec Olivier CAILLOUX mon maitre de stage.
+
+= Plan
+* Dépôt sur GitHub
+* Site web: vidéos
+* Réflexions concernant le protocole
+* Réflexions sur le choix des champions
+* Discussions avec Nicolas concernant le choix des champions, le protocole et le montage  des vidéos
+* Littérature concernant la délibération
+
+
+
+Semaine 1
+
+* Lecture de l'article sur le cadre formel pour le jugement délibéré.
+
+* Création de GitHub.
+
+En effet, j'ai suivi des tutoriels pour compendre ce qu'était GitHub et comment ca fonctionnait.
+
+* Dépot de plan
+
+* Nom de réferenciels crées:UE 21 et Ymane 10.
+
+* Comment créer un dossier asciidoctor.
+
+* Sites web: essai de création de deux sites web(website et googlesites).
+
+* Echanges avec M. CAILLOUX, nous avons fait un petit bilan de la semaine.
+
+* Invitation de M. CAILLOUX sur GitHub comme collaborateur afin qu'il puisse suivre mon travail
+
+* Après avoir lu l'article sur le cadre formel du jugement délibére, M. CAILLOUX M'a facilité l'accès à sa bibliothèque. Cela, afin que je puisse lire l'ouvrage de MAKISSON et ainsi, pouvoir me familiariser avec la relation de relation binaire et mieux m'imprégner des artsur la théorie de la décision et spécifiquement les cadres théoriques.
+
+
+= Semaine 2
+
+* Essai de compendre comment LaTeX et overleaf fonctionnaient.
+
+* Lecture d'un ouvrage de MAKISSON, et quelques exercices faits sur la notion d'ensemble
+
+* Installation de LaTeX via overleaf et essai d'un projet pour voir le fonctionnement
+
+* Echanges avec Barnabé sur les sites web que nous avons consultés
+
+
+= Semaine 3
+
+* Littérature sur wordpress
+
+* Echanges avec M. CAILLOUX suite à des difficultés à pouvoir écrire un résumé comparatif des sites web sous format asciidoctor
+
+* Ajout de nouvelles tachesafin de mieux cerner le fonctionnement de logiciel de traitement de texte
+
+Nouvelles taches::
+1. Suivre et faire des exercices sur l'introduction aux commandes (lien sur internet)
+2. Mettre asciidoctor en local
+3. Rédiger un petit texte en LaTeX en s'aidant du livre de LAMPART
+
+
+
+= Résumé sur les avantages et desavantages des sites web explorés.
+
+Website.fr
+
+
+Points faibles
+
+* De nombreuses options payantes mais pas toutes (formulaire par exemple est payante et pourtant capital dans notre travail de site).
+
+
+Points forts
+
+* Nombre important de thèmes environ 200 (prédéfini)
+* Facilité de manipulabilité 
+* Possibilité d'ajouter des vidéos
+* Un formulaire prédéfini avec possibilité de personnalisation cependant, il faut payer pour la modification
+
+Googlesites
+
+
+Points Forts
+
+* Présence de zone dédiée à la saisie des mails des personnes dont on vodrait qu'ils visionner notre site, ou si on décide de le rendre public.
+
+* Les vidéos sont paramétrables.
+
+* On peut masquer ou afficher la progression de la barre de progression ou faire glisser hors de vue.
+
+* Autoriser ou non l'affichage en mode plein écran ( intéressant surtout pour le protocole initial).
+
+* Possibilité de faire des cartes géographiques très facilement.
+
+* Ajout de documents possible et très facilement
+
+* Possibilité de diviser l'accueil en sous pages
+
+* Possibilité d'afficher le menu en haut (à droite) ou à gauche mais sous forme de carré(icone:on y appui et s'affiche
+
+* Existence de statistiques d'utilisation? pour les tendances de statistiques avancées: intéressant pour notre protocole car récupération de données. Cependant, il faudrait demander l'autorisation de google pour pouvoir les récuprer, et il faudra qu'on s'assure que nous pourrions obtenir les informationsque nous souhaitons recolter facilement (RGPD ou CNIL,).
+
+* Posibilité de dupliquer le site c'est à dire pouvoir reprendre des petits changements pour la modification, en lieu et place de tout recommencer
+
+
+Points faibles
+
+* Les vidéos à ajouter sont excusivement des vidéos issues de YouTube
+
+* La non détection de la facon de création d'un menu complet ( ce ne sont que des sous-pages d'accueil que j'ai pu créer)
+
+* Faible capacité de stockage des vidéos en ligne
+
+* L'incapacité à éditer un formulaire, cela est un frein à la programmation car on ne peut qu'importer le formulaire.
+
+
+Le site Wix présente les memes caractéristiques que googlesites
+
+* Possibilité d'éditer soi meme son site
+
+* Possibilité d'ajouter des vidéos et autres médias
+
+* Site bien structurée  et organisée
+
+* Facilement maniable
+
+* Attractivité grande: ergonomique
+
+* Facilité du point de vue de l'utilisateur
+
+* Thèmes très bien faits et pensés
+
+* Possibilité d'avoir les données analytiques: ce que les utilisateurs ont visionnés et la facon dont ils l'ont visionnés
+
+* Pas possible d'incorporer un questionnaire
+
+* Il faut payer afin de pouvoir mettre le site en ligne et pour l'obtention d'un domaine
+
+
+Wordpress
+
+ * Possibilité d'éditter soi meme un formulaire
+ 
+ * Présence de nombreux thèmes : 4000 et qui ont l'avantage d'etre très attractifs
+ 
+ * Possibilité d'ajouter des vidéos de toutes sources
+ 
+ * Wordpress dispose d'un large éventail de fonctionnalités, avec le désanvatage d'etre payant (32 euros environ par année)
+ 
+ * Possibilité de faire de la programmation
+ 
+ * Possibilité d'intaller soi-meme des extentions, et donne accès à des extentions
+ 
+ * Une grande capacité de stockage de vidéos
+ 
+ * Toutes les fonctionnalités des autres sites explorés et bien davantage
+ 
+ 
+ Points faibles
+ 
+ * Wordpress fonctionne en local, et pour pouvoir mettre en ligne et disposer d'un domaine qui domaine qui puisse nous héberger, il faut payer (32 euros environ par année). 
+
+
+
+
+
