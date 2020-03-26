@@ -18,6 +18,7 @@ Plan
 - Mettre asciidoctor en local
 - Introduction aux commandes
 
-En cours:
+
+ En cours:
 - Réflexions concernat le protocole
 - Choix des champions
