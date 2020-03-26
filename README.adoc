@@ -7,10 +7,17 @@ Plan
 - Réflexions concernant le choix des champions
 - Discussion avec Nicolas concernant le choix des champions, le protocole et le montage vidéo
 - Littérature concernant la délibération (Fishkin & cie)
- 
-	
-	résumé sur les sites web explorés
-	
-	le 1er site exploré est website
-	Avantages
-	
+- Mettre asciidoctor en local
+- Introduction aux commandes
+
+
+ Réalisés:
+- Dépot  sur github
+- site web vidéos
+- Overleaf
+- Mettre asciidoctor en local
+- Introduction aux commandes
+
+En cours:
+- Réflexions concernat le protocole
+- Choix des champions
