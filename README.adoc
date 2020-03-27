@@ -1,5 +1,7 @@
 # Ymane10
-Plan
+= Activités du stage
+
+== Plan
 - dépôt sur GitHub, création d’un fichier asciidoctor avec le plan
 - Site web : vidéos ; … (asciidoctor)
 - LaTeX ou Overleaf
@@ -10,15 +12,13 @@ Plan
 - Mettre asciidoctor en local
 - Introduction aux commandes
 
-
- Réalisés:
+== Réalisés
 - Dépot  sur github
-- site web vidéos
+- site web vidéos (http://localhost/alimentation/wordpress/wp-admin/post.php?post=22&action=elementor)
 - Overleaf
 - Mettre asciidoctor en local
 - Introduction aux commandes
 
-
- En cours:
+== En cours
 - Réflexions concernat le protocole
 - Choix des champions
