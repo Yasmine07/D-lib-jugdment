@@ -1,4 +1,4 @@
-Activités du stage
+=  Activités du stage
 
 == Plan
 - dépôt sur GitHub, création d’un fichier asciidoctor avec le plan
