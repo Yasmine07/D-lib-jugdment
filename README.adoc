@@ -19,5 +19,5 @@
 - Introduction aux commandes
 
 == En cours
-- Réflexions concernat le protocole
+- Réflexions concernant le protocole
 - Choix des champions
