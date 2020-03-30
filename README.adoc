@@ -18,6 +18,7 @@
 - Mettre asciidoctor en local
 - Introduction aux commandes
 
-== En 
-http://localhost/alimentation/wordpress/wp-admin/post.php?post=22&action=elementor- Réflexions concernant le  protocol
+== En cours
+-  Site web (http://localhost/alimentation/wordpress/wp-admin/post.php?post=22&action=elementor)
+- Réflexions concernant le protocole
 - Choix des champions
