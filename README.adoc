@@ -13,11 +13,11 @@
 
 == Réalisés
 - Dépot  sur github
-- site web vidéos (http://localhost/alimentation/wordpress/wp-admin/post.php?post=22&action=elementor)
--  Overleaf
+- site web vidéos
+-  Overleaf(https://fr.overleaf.com/read/hdrqjpvqmbwy)
 - Mettre asciidoctor en local
 - Introduction aux commandes
 
-== En cours
-- Réflexions concernant le protocole
+== En 
+http://localhost/alimentation/wordpress/wp-admin/post.php?post=22&action=elementor- Réflexions concernant le  protocol
 - Choix des champions
