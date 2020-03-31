@@ -88,12 +88,7 @@
  * Une grande capacité de stockage de vidéos
  
  * Toutes les fonctionnalités des autres sites explorés et bien davantage
- 
- === Points faibles
- 
+
+=== Points faible
+
  * Wordpress fonctionne en local, et pour pouvoir mettre en ligne et disposer d'un domaine qui domaine qui puisse nous héberger, il faut payer (32 euros environ par année). 
-
-
-
-
-
