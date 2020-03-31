@@ -1,22 +1,18 @@
 =  Activités du stage
 
-== Plan
-- dépôt sur GitHub, création d’un fichier asciidoctor avec le plan
-- Site web : vidéos ; … (asciidoctor)
-- LaTeX ou Overleaf
+== En cours
+-  Site web : Olivier voit comment partager le site web
 - Réflexions concernant le protocole
-- Réflexions concernant le choix des champions
+- Choix des champions
+
+
+== Futur
 - Discussion avec Nicolas concernant le choix des champions, le protocole et le montage vidéo
 - Littérature concernant la délibération (Fishkin & cie)
-- Mettre asciidoctor en local
-- Introduction aux commandes
+
 
 == Réalisés
  -  Overleaf(https://fr.overleaf.com/read/hdrqjpvqmbwy)
 - Mettre asciidoctor en local
 - Introduction aux commandes
 
-== En cours
--  Site web : Olivier voit commen partager le site web
-- Réflexions concernant le protocole
-- Choix des champions
