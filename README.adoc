@@ -12,9 +12,29 @@
 - Introduction aux commandes
 
 == Réalisés
-- Dépot  sur github
-- site web vidéos
--  Overleaf(https://fr.overleaf.com/read/hdrqjpvqmbwy)
+Website.fr
+
+Points faibles
+
+De nombreuses options payantes mais pas toutes (formulaire par exemple est payante et pourtant capital dans notre travail de site).
+
+Points forts
+
+Nombre important de thèmes environ 200 (prédéfini)
+
+Facilité de manipulabilité
+
+Possibilité d’ajouter des vidéos
+
+Un formulaire prédéfini avec possibilité de personnalisation cependant, il faut payer pour la modification
+
+Googlesites
+
+Points Forts
+
+Présence de zone dédiée à la saisie des mails des personnes dont on vodrait qu’ils visionner notre site, ou si on décide de le rendre public.
+
+ -  Overleaf(https://fr.overleaf.com/read/hdrqjpvqmbwy)
 - Mettre asciidoctor en local
 - Introduction aux commandes
 
