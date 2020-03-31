@@ -17,6 +17,6 @@
 - Introduction aux commandes
 
 == En cours
--  Site web (http://localhost/alimentation/wordpress/wp-admin/post.php?post=22&action=elementor)
+-  Site web : Olivier voit commen partager le site web
 - Réflexions concernant le protocole
 - Choix des champions
