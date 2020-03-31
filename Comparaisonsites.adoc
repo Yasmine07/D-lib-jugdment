@@ -1,26 +1,21 @@
-= Résumé sur les avantages et désavantages des sites web explorés
+= Comparaison de sites web
 
+== Website.fr
 
-Website.fr
-
-
- Points faibles
+=== Points faibles
 
 * De nombreuses options payantes mais pas toutes (formulaire par exemple est payante et pourtant capital dans notre travail de site).
 
-
-Points forts
+=== Points forts
 
 * Nombre important de thèmes environ 200 (prédéfini)
 * Facilité de manipulabilité 
 * Possibilité d'ajouter des vidéos
 * Un formulaire prédéfini avec possibilité de personnalisation cependant, il faut payer pour la modification
 
-Googlesites
+== Googlesites
 
-
- Points Forts
-
+=== Points forts
 * Présence de zone dédiée à la saisie des mails des personnes dont on vodrait qu'ils visionner notre site, ou si on décide de le rendre public.
 
 * Les vidéos sont paramétrables.
@@ -41,9 +36,7 @@ Googlesites
 
 * Posibilité de dupliquer le site c'est à dire pouvoir reprendre des petits changements pour la modification, en lieu et place de tout recommencer
 
-
- Points faibles
-
+=== Points faibles
 * Les vidéos à ajouter sont excusivement des vidéos issues de YouTube
 
 * La non détection de la facon de création d'un menu complet ( ce ne sont que des sous-pages d'accueil que j'ai pu créer)
@@ -53,7 +46,7 @@ Googlesites
 * L'incapacité à éditer un formulaire, cela est un frein à la programmation car on ne peut qu'importer le formulaire.
 
 
-Le site Wix présente les memes caractéristiques que googlesites
+== Le site wix présente les memes fonctionnalités que googlesites
 
 * Possibilité d'éditer soi meme son site
 
@@ -76,7 +69,9 @@ Le site Wix présente les memes caractéristiques que googlesites
 * Il faut payer afin de pouvoir mettre le site en ligne et pour l'obtention d'un domaine
 
 
-Wordpress
+== Wordpress
+
+=== Points forts
 
  * Possibilité d'éditter soi meme un formulaire
  
@@ -94,8 +89,7 @@ Wordpress
  
  * Toutes les fonctionnalités des autres sites explorés et bien davantage
  
- 
- Points faibles
+ === Points faibles
  
  * Wordpress fonctionne en local, et pour pouvoir mettre en ligne et disposer d'un domaine qui domaine qui puisse nous héberger, il faut payer (32 euros environ par année). 
 
