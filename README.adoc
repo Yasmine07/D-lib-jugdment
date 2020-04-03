@@ -3,10 +3,10 @@
 == En cours
 -  Site web : Olivier voit comment partager le site web
 - Réflexions concernant le protocole
-- Choix des champions
 
 
 == Futur
+- Choix des championS
 - Discussion avec Nicolas concernant le choix des champions, le protocole et le montage vidéo
 - Littérature concernant la délibération (Fishkin & cie)
 
@@ -15,4 +15,3 @@
  -  Overleaf(https://fr.overleaf.com/read/hdrqjpvqmbwy)
 - Mettre asciidoctor en local
 - Introduction aux commandes
-
