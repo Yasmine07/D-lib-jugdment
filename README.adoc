@@ -2,7 +2,8 @@
 
 == En cours
 -  Site web : Olivier voit comment partager le site web
-- Réflexions concernant le protocole
+- Réflexions concernant le protoole
+Comparaisonsites.adoc
 
 
 == Futur
