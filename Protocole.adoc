@@ -132,5 +132,5 @@ Soit, nous pourrions demander aux experts, de se filmer et nous envoyer alors le
 
 === Analyse
 
-Après avoir collecté les vidéos, reçu la participation des utilisateurs sur le site et recolté leurs opinions, nous pourrions chercher des corrérations entre le jugement délibéré et certaines variables (temps de visionage, nombre de fois passer à vissionner la vidéos, temps alloué à chaque expert, stabilité de la réponse).
+Après avoir collecté les vidéos, reçu la participation des utilisateurs sur le site et recolté leurs opinions, nous pourrions chercher des corrérations entre le jugement délibéré et certaines variables (temps de visionage, nombre de fois passer à vissionner la vidéos, temps alloué à chaque expert, stabilité de la réponse)
 a travers un logiciel (SAS ou R...).
