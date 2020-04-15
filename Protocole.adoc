@@ -6,31 +6,29 @@
 La théorie de la décision se concentre sur les notions de croyances et de préférences. Ici, nous voulons
 explorer le rôle trop négligé que l’argumentation peut jouer dans l’aide à la décision. A ce sujet, un cadre théorique (Cailloux et Meinard 2018) d’exploration du jugement délibéré d’un
 individu soumis à un choix. Nous voulons utiliser ce cadre théorique sur le cas d’étude de
-l’établissement (ou non) d’une cantine scolaire végane en France. Le régime alimentaire global est un déterminant principal de la survenue de maladies dites chroniques.Ce thème participe de
-questionnements sociétaux actuels sur la place des plats plus végétalisés car les régimes végétariens ont été associés avec un risque plus faible de diabètes, de cancers et de maladies cardiovasculaires dans les études prospectives.
+l’établissement (ou non) d’une cantine scolaire végane en France. *Le régime alimentaire global est un déterminant principal de la survenue de maladies dites chroniques.Ce thème participe de
+questionnements sociétaux actuels sur la place des plats plus végétalisés car les régimes végétariens ont été associés avec un risque plus faible de diabètes, de cancers et de maladies cardiovasculaires dans les études prospectives.*
 
 == Méthodologie
 === Type d'étude
 
-Notre étude est de type expérimental. Le dispositif expérimental
+*Notre étude est de type expérimental. Le dispositif expérimental
 implique de soumettre un grand nombre d’individus aux arguments de deux experts opposés sur cette
 question via des vidéos publiées en ligne et présentant leurs arguments et les contre-arguments qu’ils
-opposent à leur adversaire.
+opposent à leur adversaire.*
 
 === Objectifs
 
 L’objectif de ce dispositif est double, à la fois de réaliser une expérience
 susceptible de révéler à l’individu testé son jugement délibéré sur la question et, de l’autre, de
-mesurer l’effet de changement de son opinion par le passage par une telle expérience
-L’étudiant.e qui joindrait ce projet aura pour responsabilité de mettre en place une telle
-expérimentation. 
+mesurer l’effet de changement de son opinion par le passage par une telle expérience. 
 
 == Protocole
 Supposons que nous ayons deux experts, Ca et Cb.
 
 === Phase de collecte
 
-Nous demandons à Ca et Cb leurs propositions favorites, définies respectivement comme ta et tb (à choisir parmi les items 1 à 4 comme défini dans la section 1). Avec un peu de chance, nous avons choisi Ca et Cb pour que ta et tb soient aux extrémités opposées du spectre. Nous demandons à Ca de produire une vidéo en faveur de ta, et de l'étiqueter s1a. Nous envoyons s1a à Ca. Nous donnons à Cb un choix: soit produire une vidéo de réponse (en argumentant pour tb contre la vidéo en argumentant pour ta), soit démarrer un nouveau thread en faveur de tb, ou les deux. Dans le premier cas, nous étiquetons l'argument s1ab. Dans le second cas, nous étiquetons l'argument s1b. Nous répétons ce schéma ad nauseam. Nous exécutons également un schéma parallèle commençant par b au lieu de a. Voici une description plus précise de la phase de collecte.
+Nous demandons à Ca et Cb leurs propositions favorites, définies respectivement comme ta et tb (à choisir parmi les items 1 à 4 comme défini dans la section 1). Avec un peu de chance, nous avons choisi Ca et Cb pour que ta et tb soient aux extrémités opposées du spectre. Nous demandons à Ca de produire une vidéo en faveur de ta, et de l'étiqueter s1a. Nous envoyons s1a à Ca. Nous donnons à Cb un choix: soit produire une vidéo de réponse (en argumentant pour tb contre la vidéo en argumentant pour ta), soit démarrer un nouveau thread en faveur de tb. Dans le premier cas, nous étiquetons l'argument s1ab. Dans le second cas, nous étiquetons l'argument s1b. Nous répétons ce schéma ad nauseam. Nous exécutons également un schéma parallèle commençant par b au lieu de a. Voici une description plus précise de la phase de collecte.
 
 • Au début de toute la procédure, les deux champions sont pleinement informés de la procédure et de l'utilisation future de leurs arguments, y compris des contraintes de temps (en fait, comme s'ils avaient reçu une copie de l'ensemble de ce document, sauf éventuellement sous une forme différente plus approprié pour une compréhension facile de leur rôle).
  
@@ -50,7 +48,7 @@ Une vidéo répondant à une autre vidéo est étiquetée en suffixant β au lib
  
 • Nous répétons l'étape précédente, exécuter deux threads en parallèle chaque fois que possible, jusqu'à épuisement des deux participants. 
 
-• Lorsque les deux participants ont fini de produire des vidéos, nous leur demandons d'étiqueter brièvement (max. X mots, à déterminer) chacune de leurs propres vidéos et de sélectionner une image de la vidéo qui deviendra sa «vignette». 
+• Lorsque les deux participants ont fini de produire des vidéos, nous leur demandons d'étiqueter brièvement (max. X mots, à déterminer)*(deux premieres lettres du nom de chaque expert)* chacune de leurs propres vidéos et de sélectionner une image de la vidéo qui deviendra sa «vignette». 
 
 Exemple 1 Voici un exemple d'exécution. 
 
@@ -112,25 +110,27 @@ Nous devrions déjà penser à certaines des analyses que nous voudrons faire, a
 
 === Plus
 
-1. Nous pourrions demander aux experts à la fin du filmage, de supprimer ou promouvoir des vidéos (Ils pourraient penser que certaines de leurs vidéos sont bien meilleures que d'autres.) 
+*1. Nous pourrions demander aux experts à la fin du filmage, de supprimer ou promouvoir des vidéos (Ils pourraient penser que certaines de leurs vidéos sont bien meilleures que d'autres.)*
 
 2. Nous nous assurons que nous ne proposerons les vidéos «réponses» qu'une fois qu'il aura marqué la vidéo comme «vue».
  
 3. L'utilisateur affiche la question à tout moment et est invité à donner son jugement actuel sur la meilleure réponse, et peut changer sa réponse après chaque vidéo si il le souhaite. Quelque chose comme: "quel serait votre jugement actuel sur la meilleure réponse à cette question à ce stade?" 
+*Cela est un peu lourd pour l'utilisateur. On pourrait s'assurer que il ne réponde à cela que lorsque qu'il veut quitter le site (comme une question imposée)
+A chaque fois que i regarde une vidéo et son contre argument, lui afficher une question sur son choix de réponse actuel. Et après avoir visionner une vidéo, si la personne veut quitter le site le proposer de regarder le contre argument avant de partir, ou sinon l'afficher une question demandant de donner son choix.*
 
-4. Nous devons introduire quelques suggestions aléatoires: certaines personnes sont dirigées (plus ou moins contraignantes) vers des vidéos, afin de pouvoir analyser le résultat sur le DJ en fonction du chemin d'entré
+4. Nous devons introduire quelques suggestions aléatoires: *certaines personnes sont dirigées (plus ou moins contraignantes) vers des vidéos, afin de pouvoir analyser le résultat sur le DJ en fonction du chemin d'entré*
 
-Pour avoir une conclusion solide sur la stabilité de la réponse, nous allons diriger des personnes (une sorte de contrainte) vers des chemins de réponses bien spécifiques. Enfin, il sera réalisé un premier test de validation du dispositif
+*Pour avoir une conclusion solide sur la stabilité de la réponse, nous allons diriger des personnes (une sorte de contrainte) vers des chemins de réponses bien spécifiques. Enfin, il sera réalisé un premier test de validation du dispositif
 sur un premier échantillon d’individus afin de calibrer au mieux l’expérience. Cette première analyse permettra
-de finaliser le protocole pour l’appliquer à un plus large échantillon.
+de finaliser le protocole pour l’appliquer à un plus large échantillon.*
 
 === Alternative
 
-Vu la situation de pandémie du COVID-19, aller filmer des experts s'annonce difficile.
+*Vu la situation de pandémie du COVID-19, aller filmer des experts s'annonce difficile.
 On présagerait alors, dès que notre site web est prêt, de mettre de fausses vidéos et à partir de là, expérimenter notre théorie , en s'assurant que le cadre marche bien sinon, nous releverons les failles pour une amélioration ultérieure.
-Soit, nous pourrions demander aux experts, de se filmer et nous envoyer alors leurs vidéos. Et ainsi, ces vidéos seront mis sur le site et le protocole initial sera suivi sans changement.
+Soit, nous pourrions demander aux experts, de se filmer et nous envoyer alors leurs vidéos. Et ainsi, ces vidéos seront mis sur le site et le protocole initial sera suivi sans changement.*
 
 === Analyse
 
-Après avoir collecté les vidéos, reçu la participation des utilisateurs sur le site et recolté leurs opinions, nous pourrions chercher des corrérations entre le jugement délibéré et certaines variables (temps de visionage, nombre de fois passer à vissionner la vidéos, temps alloué à chaque expert, stabilité de la réponse)
-a travers un logiciel (SAS ou R...).
+*Après avoir collecté les vidéos, reçu la participation des utilisateurs sur le site et recolté leurs opinions, nous pourrions chercher des corrérations entre le jugement délibéré et certaines variables (temps de visionage, nombre de fois passer à vissionner la vidéos, temps alloué à chaque expert, stabilité de la réponse).
+a travers un logiciel (SAS ou R...).*
