@@ -2,24 +2,13 @@
 
 Mon stage a débuté le 24/02/2020 au laboratoire LAMSADE.
 Cela fait en effat trois semaines que je travaille sur le thème: Exploration expérimentale du jugement délibéré sur la décision d'établir une cantine scolaire végane.
-Le plan suivant fut adopté en commun accord avec Olivier CAILLOUX mon maitre de stage.
-
- Plan
-* Dépot sur GitHub
-* Site web: vidéos
-* Réflexions concernant le protocole
-* Réflexions sur le choix des champions
-* Discussions avec Nicolas concernant le choix des champions, le protocole et le montage  des vidéos
-* Littérature concernant la délibération
 
 
-Semaine 1::
+== Semaine 1
 
 * Lecture de l'article sur le cadre formel pour le jugement délibéré.
 
-* Création de GitHub.
-
-En effet, j'ai suivi des tutoriels pour compendre ce qu'était GitHub et comment ca fonctionnait.
+* Création de GitHub :en effet, j'ai suivi des tutoriels pour compendre ce qu'était GitHub et comment ca fonctionnait.
 
 ** Dépot de plan
 
@@ -36,7 +25,7 @@ En effet, j'ai suivi des tutoriels pour compendre ce qu'était GitHub et comment
 * Après avoir lu l'article sur le cadre formel du jugement délibére, M. CAILLOUX M'a facilité l'accès à sa bibliothèque. Cela, afin que je puisse lire l'ouvrage de MAKISSON et ainsi, pouvoir me familiariser avec la relation de relation binaire et mieux m'imprégner des artsur la théorie de la décision et spécifiquement les cadres théoriques.
 
 
-= Semaine 2::
+== Semaine 2
 
 * Essai de compendre comment LaTeX et overleaf fonctionnaient.
 
@@ -47,7 +36,7 @@ En effet, j'ai suivi des tutoriels pour compendre ce qu'était GitHub et comment
 * Echanges avec Barnabé sur les sites web que nous avons consultés
 
 
-= Semaine 3::
+== Semaine 3
 
 * Littérature sur wordpress
 
@@ -55,10 +44,76 @@ En effet, j'ai suivi des tutoriels pour compendre ce qu'était GitHub et comment
 
 * Ajout de nouvelles tachesafin de mieux cerner le fonctionnement de logiciel de traitement de texte
 
-Nouvelles taches::
+* Nouvelles taches
+
 1* Suivre et faire des exercices sur l'introduction aux commandes (lien sur internet)
+
 2* Mettre asciidoctor en local
+
 3* Rédiger un petit texte en LaTeX en s'aidant du livre de LAMPART
+
+== Semaine 4
+
+* Rédaction du rapport en asciidoctor et le convertir en html et l'envoyer sur github
+
+* Séparation du document de comptre rendu en 2 ( l'un uniquement contenant le compte rendu de mes taches et l'autre portant sur les comparaisons des sites web explorés)
+
+* Mise à jour du README ( taches réalisées et en cours)
+
+* Site avec wordpress (page d'accueil avec un texte introductif pour présenter l'étude et 2 vidéos)
+
+* Début protocole (inspiré par le protocole initial)
+
+* Discussion téléphonique avec Olivier concernant la conduite à tenir ( début du confinnement)
+
+
+== Semaine 5
+
+* Lecture de quelques lignes du livre de MAKISSON
+
+* Réalisation d'un texte réalisé dans overleaf
+
+* 2éme discussion avec Olivier à propos de la réconduite du stage ( hypothéses de fausses vidéos ou d'auto-filmage des experts ou simplement mettre en place un modéle qui marche bien et sur lequel d'autres stages ou recherches pourront s'appuyer)
+
+== Semaine 6
+
+* Envoi du lien vers mon document écrit dans overleaf
+
+* Discussion avec Olivier concernant des nouvelles taches à faire ( inclure futur et changer l'ordre : futur/réalisé/ en cours)
+
+* Essaie mais echec pour pouvoir déployer mon site wordpress sur github (vu que je travail en local , cette tache n'est pas simple), alors Olivier s'est proposé de voir comment cela pourrait se faire
+
+* Fin élaboration du protocole et envoi sur GitHub
+
+
+== Semaine 7
+
+* Discussions avec Barnabé concernant le site web
+
+* Nouveau essai: Installation d'une nouvelle extentention (WP2static) dans Wordpress afin de deployer mon site sur GitHub et le rendre accéssible par Olivier
+
+* Reprise en gras de mes propositions dans le protocole envoyé (pour faciliter la discussion avec Olivier)
+
+* Elaboration d'un brouillon (questionnement sur l'état de l'art du stage) afin de mieux comprendre ce qui tourne autour de la théorie de la décision
+
+== Semaine 8
+
+* Création d'un nouveau site web (pour essayer de la déployer de nouveau et aussi pour donner une forme améliorée de ce que le sit web final ressemblerait): menu composé de 4 composantes ( experts, arguments, formulaire et accueil)
+
+* Discussions avec Barnabé pour essayer de résoudre le probléme de déployement qui continu de se poser
+
+* Envoi du protocole à Olivier
+
+* Partage du brouillon sur l'état de l'art à Olivier qui m'a proposé un livre: Bouyssou, Marchant, Pirlot, Perny, Tsoukiàs, Vincke - Evaluation and Decision Models: a critical perspective (2000)
+
+== Semaine 9 (en cours)
+
+* Lecture de quelques pages du livre Evaluation and Decision Models: a critical perspective (2000) de Bouyssou, Marchant, Pirlot, Perny, Tsoukiàs, Vincke.
+
+* Essai de nouveau de déployer le site web sur Github en changeant et créant de nouveaux réferenciels mais echéc
+
+ 
+ 
 
 
 
