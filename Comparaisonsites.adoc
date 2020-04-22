@@ -1,4 +1,4 @@
-= Comparaison de sites web
+= Comparaison d'outils de sites web
 
 == Website.fr
 
