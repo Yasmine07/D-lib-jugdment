@@ -16,5 +16,5 @@
 - Mettre asciidoctor en local
 - Introduction aux commandes
 - Ebauche de site vers wordpress
-- Comparaison d'outils de sites web
+- Comparaison d'outils de sites web ( https://github.com/Yasmine07/D-lib-jugdment/blob/master/Comparaisonsites.adoc )
 - Elaboration de document (démarche pour déployer le site): https://github.com/Yasmine07/D-lib-jugdment/blob/master/Demarches-site.adoc
