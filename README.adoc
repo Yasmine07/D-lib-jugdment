@@ -17,4 +17,4 @@
 - Introduction aux commandes
 - Ebauche de site vers wordpress
 - Comparaison d'outils de sites web
-- Elaboration de document (démarche pour déployer le site): https://github.com/Yasmine07/D-lib-jugdment/blob/master/D%C3%A9marches-site.adoc
+- Elaboration de document (démarche pour déployer le site): https://github.com/Yasmine07/D-lib-jugdment/blob/master/Demarches-site.adoc
