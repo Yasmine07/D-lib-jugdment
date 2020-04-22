@@ -1,0 +1,52 @@
+= Démarche site web
+
+* Installation de wordpress  https://fr.wordpress.org/download/
+
+* Téléchargement de  xammp grâce ce lien : https://www.apachefriends.org/fr/index.html 
+
+* Début de site
+
+Wordpress étant installé en local, afin de rendre mon site accéssible par des persoonnes, il faut impérativement le mettre en ligne. En ce qui me concerne, j'ai utilisé github pour deployer un site statique et le rendre consultable.
+
+== Extension 1 avec Simply static
+
+Simpy static est une extention que j'ai installée afin de pouvoir déployer le site sur GitHub.
+
+* Création d'un référentiel de pages Github pour héberger le site WordPress statique
+
+* Création d'un ensemble de branches gh-pages par défaut et suppression de la branche principale
+
+* Cloner le référentiel GitHub sur ma machine en locale (github desktop)
+
+* Création  d'un site statique à partir de WordPress (  j'ai mis à jour les paramètres Simply Static )
+
+* Génerer du contenu statique : j'ai cliqué sur «Générer des fichiers statiques»
+
+* Retour sur Pages GitHub pour vérifier mon référentiel: je constate que le dépot a été effectué ( normalement je ne saurais le dire)
+
+* Site web initial déployé sur github: fond mais pas la forme: https://yasmine07.github.io/cantine-vegane/
+
+
+== Extension 2 avec WP2Statics
+
+* Téléchargement et installation de l'extention WP2Statics
+
+* Suppression de  tous les fichiers créés par Simply Static du clone de mon dépôt (sauf le README)
+
+* J'ai mis en marche l'extention:
+
+** Destination URL: j'ai mis le lien de ma page GitHub : https://github.com/Yasmine07/site-web2 et autre tentative sur https://github.com/Yasmine07/Ymane
+
+** Target directory: le chemin du dossier de ton dépôt local GitHub)
+
+** Et pour finir j'ai lancé l’exportation !
+
+* Après avec l’appli GitHub Desktop j’ai fais push 
+
+* Malheureusement, sur le nouveau réferenciel crée pour recevoir le clone, rien ne s'est affiché
+
+* Contrairement à la 1ére extention, aucun fichier n'était affiché dans mon réferenciel.
+
+Avec ces deux extentions, j'ai fais de nombreuses tentatives mais je n'ai pas atteind, le but escompté.
+
+J'échangeais avec Barnabé qui essaiyait aussi de comprendre la cause de l'échec et de m'éclairer souvent.
