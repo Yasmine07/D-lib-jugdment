@@ -1,13 +1,13 @@
 =  Activités du stage
 
 == En cours
--  Site web : Olivier voit comment partager le site web
+-  Site web : Investigations en cours pour permettre l'accessibilité
 - Réflexions concernant le protocole( https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc)
 
 
 == Futur
 - Choix des championS
-- Discussion avec Nicolas concernant le choix des champions, le protocole et le montage vidéo
+- Discussion avec l'équipe concernant le choix des champions, le protocole et le montage vidéo
 - Littérature concernant la délibération (Fishkin & cie)
 
 
@@ -15,3 +15,6 @@
  -  Overleaf(https://fr.overleaf.com/read/hdrqjpvqmbwy)
 - Mettre asciidoctor en local
 - Introduction aux commandes
+- Ebauche de site vers wordpress
+- Comparaison d'outils de sites web
+- Elaboration de document (démarche pour déployer le site)
