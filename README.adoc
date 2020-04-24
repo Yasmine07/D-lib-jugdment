@@ -2,7 +2,7 @@
 
 == En cours
 -  Site web : Investigations en cours pour permettre l'accessibilité
-- Réflexions concernant ( https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc) le [protocole]
+- Réflexions concernant le ( https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc)[protocole]
 
 
 == Futur
@@ -12,9 +12,9 @@
 
 
 == Réalisés
- -  Overleaf(https://fr.overleaf.com/read/hdrqjpvqmbwy)[overleaf]
+ -  Overleaf (https://fr.overleaf.com/read/hdrqjpvqmbwy)[ici]
 - Mettre asciidoctor en local
 - Introduction aux commandes
 - Ebauche de site vers wordpress
-- Comparaison d'outils ( https://github.com/Yasmine07/D-lib-jugdment/blob/master/Comparaisonsites.adoc ) de [sites web]
-- Elaboration (démarche pour déployer le site): https://github.com/Yasmine07/D-lib-jugdment/blob/master/Demarches-site.adoc de [document]
+- Comparaison d'outils ( https://github.com/Yasmine07/D-lib-jugdment/blob/master/Comparaisonsites.adoc )[sites web]
+- Elaboration (démarche pour déployer le site): https://github.com/Yasmine07/D-lib-jugdment/blob/master/Demarches-site.adoc[document]
