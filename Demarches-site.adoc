@@ -2,7 +2,7 @@
 
 * Installation de wordpress  https://fr.wordpress.org/download/[ici]
 
-* Téléchargement de  xammp grâce ce lien : https://www.apachefriends.org/fr/index.html 
+* Téléchargement de  xammp grâce à https://www.apachefriends.org/fr/index.html[ce lien] 
 
 * Début de site
 
@@ -24,7 +24,7 @@ Simpy static est une extention que j'ai installée afin de pouvoir déployer le 
 
 * Retour sur Pages GitHub pour vérifier mon référentiel: je constate que le dépot a été effectué ( normalement je ne saurais le dire)
 
-* Site web initial déployé sur github: fond mais pas la forme: https://yasmine07.github.io/cantine-vegane/
+* Site web initial déployé sur github https://yasmine07.github.io/cantine-vegane/[fond mais pas la forme]
 
 
 == Extension 2 avec WP2Statics
@@ -35,7 +35,7 @@ Simpy static est une extention que j'ai installée afin de pouvoir déployer le 
 
 * J'ai mis en marche l'extention:
 
-** Destination URL: j'ai mis le lien de ma page GitHub : https://github.com/Yasmine07/site-web2 et autre tentative sur https://github.com/Yasmine07/Ymane
+** Destination URL: j'ai mis le lien de ma page GitHub https://github.com/Yasmine07/site-web2[ici] et autre tentative sur https://github.com/Yasmine07/Ymane[ici également]
 
 ** Target directory: le chemin du dossier de ton dépôt local GitHub)
 
