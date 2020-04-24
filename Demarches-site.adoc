@@ -1,6 +1,6 @@
 = Démarche site web
 
-* Installation de wordpress  https://fr.wordpress.org/download/
+* Installation de wordpress  https://fr.wordpress.org/download/[ici]
 
 * Téléchargement de  xammp grâce ce lien : https://www.apachefriends.org/fr/index.html 
 
