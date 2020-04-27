@@ -112,6 +112,10 @@ Cela fait en effat trois semaines que je travaille sur le thème: Exploration ex
 
 * Essai de nouveau de déployer le site web sur Github en changeant et créant de nouveaux réferenciels mais echéc
 
+* Exploration de deux pistes pour deployer mon site web (Wordpress.com et Byet.host) qui sont de bonnes pistes qui marchent sauf qu'il falait recommencer un autre site
+
+* Partage d'écran avec Barnabé et https://yasmine07.github.io/cantine-vegane/[site web déployé sur GitHub]
+
  
  
 
