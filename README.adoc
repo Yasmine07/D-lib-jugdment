@@ -1,7 +1,7 @@
 =  Activités du stage
 
 == En cours
--  Site web https://yasmine07.github.io/cantine-vegane/[le lien pour l'accessibilité]
+- https://yasmine07.github.io/cantine-vegane/[site web]
 - Réflexions concernant le https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc[protocole]
 
 
@@ -12,7 +12,7 @@
 
 
 == Réalisés
- -  Overleaf https://fr.overleaf.com/read/hdrqjpvqmbwy[ici]
+- Overleaf https://fr.overleaf.com/read/hdrqjpvqmbwy[ici]
 - Mettre asciidoctor en local
 - Introduction aux commandes
 - Ebauche de site vers wordpress
