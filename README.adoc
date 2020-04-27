@@ -1,7 +1,7 @@
 =  Activités du stage
 
 == En cours
--  Site web : Investigations en cours pour permettre l'accessibilité
+-  Site web https://yasmine07.github.io/cantine-vegane/[le lien pour l'accessibilité]
 - Réflexions concernant le https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc[protocole]
 
 
