@@ -106,7 +106,7 @@ Cela fait en effat trois semaines que je travaille sur le thème: Exploration ex
 
 * Partage du brouillon sur l'état de l'art à Olivier qui m'a proposé un livre: Bouyssou, Marchant, Pirlot, Perny, Tsoukiàs, Vincke - Evaluation and Decision Models: a critical perspective (2000)
 
-== Semaine 9 (en cours)
+== Semaine 9 
 
 * Lecture de quelques pages du livre Evaluation and Decision Models: a critical perspective (2000) de Bouyssou, Marchant, Pirlot, Perny, Tsoukiàs, Vincke.
 
@@ -115,6 +115,25 @@ Cela fait en effat trois semaines que je travaille sur le thème: Exploration ex
 * Exploration de deux pistes pour deployer mon site web (Wordpress.com et Byet.host) qui sont de bonnes pistes qui marchent sauf qu'il falait recommencer un autre site
 
 * Partage d'écran avec Barnabé et https://yasmine07.github.io/cantine-vegane/[site web déployé sur GitHub]
+
+== Semaine 10
+
+* Réunion visiconférence avec mes trpois encadrants de stage : avec Olivier, nous avons fait le points aux autres à Nicolas et Yves et nous nos sommes donné un objectif à ourt terme d'une durée de une semaine (faire une liste potentielle d'experts)
+
+* Contact de diététiciens (8 dont 5 m'ont fait un retour)
+
+* Contact d'associations ( végétariens/ environnement/ bien-etre animal) : Greenpeace, L214, Association des végétariens de France, Végécantines et Vegan-pratique (site gére par l'association des végétariens de France), L214 Ethique et animaux (facebook)
+
+* Vegan-pratique; retour et fournit  https://mail.google.com/mail/u/0/#inbox/FMfcgxwHNCsqSLqHRFhVmKdXrCVPpMhW[des pistes de contact pour experts potentiels]
+
+* Mail envoyé au Pr BEGUE et retour (deux noms d'experts)
+
+* Mail envoyé à http://www.alimentation-responsable.com/qui-sommes-nous[l'APSARes]
+
+* Consultation de https://www.reponsearmb.com[la liste de médecins ayant répondu en 2019 à l’ARMB ]au sujet des alimentations 
+
+* Liste d'experts potentiels
+
 
  
  
