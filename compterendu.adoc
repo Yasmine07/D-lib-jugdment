@@ -132,7 +132,7 @@ Cela fait en effat trois semaines que je travaille sur le thème: Exploration ex
 
 * Consultation de https://www.reponsearmb.com[la liste de médecins ayant répondu en 2019 à l’ARMB ]au sujet des alimentations 
 
-* Liste d'experts potentiels
+* https://github.com/Yasmine07/D-lib-jugdment/blob/master/Liste.adoc[Liste d'experts potentiels]
 
 
  
