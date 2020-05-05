@@ -26,7 +26,7 @@
 
 ** Jérôme Edward-Pellet
 
-* Pr BEGUE (initiateur lundi vert à Grenoble)
+* Pr https://www.lip.univ-smb.fr/person/laurent-begue/[BEGUE] (initiateur lundi vert à Grenoble)
 
 ** Denis Lairon
 
@@ -40,7 +40,7 @@
 
 == Liste secondaire d'experts
 
-* Liste de médecins ayant répondu en 2019 à l’ARMB au sujet des alimentations 
+* https://www.reponsearmb.com/[Liste de médecins ayant répondu en 2019 à l’ARMB au sujet des alimentations] 
 
 ** Catherine Devillers( médecin nutritionniste et rédactrice scientifique au CBIP : Centre Belge d’Information Pharmacothérapeutique )
 
@@ -66,7 +66,7 @@
 
 ** Zarski Omar, Docteur en Médecine
 
-* Membres de l’APSAres
+* http://www.alimentation-responsable.com/qui-sommes-nous[Membres de l’APSARes]
 
 ** Dr Jérôme BERNARD-PELLET, médecin nutritionniste
 
