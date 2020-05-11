@@ -47,6 +47,6 @@ Simpy static est une extention que j'ai installée afin de pouvoir déployer le 
 
 * Contrairement à la 1ére extention, aucun fichier n'était affiché dans mon réferenciel.
 
-Avec ces deux extentions, j'ai fais de nombreuses tentatives mais je n'ai pas atteind, le but escompté.
+Avec ces deux extentions, j'ai fais de nombreuses tentatives mais je n'ai pas atteint, le but escompté.
 
 J'échangeais avec Barnabé qui essaiyait aussi de comprendre la cause de l'échec et de m'éclairer souvent.
