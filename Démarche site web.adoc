@@ -8,9 +8,27 @@
 
 Wordpress étant installé en local, afin de rendre mon site accéssible par des persoonnes, il faut impérativement le mettre en ligne. En ce qui me concerne, j'ai utilisé github pour deployer un site statique et le rendre consultable.
 
-== Extension 1 avec Simply static
+== Avec WP2Statics
 
-Simpy static est une extention que j'ai installée afin de pouvoir déployer le site sur GitHub.
+* Téléchargement et installation de l'extention WP2Statics sur WordPress
+
+* J'ai mis en marche l'extention:
+
+** Destination URL: j'ai mis le lien de la page GitHub (https://yasmine07.github.io/cantine-vegane/) sur laquelle je souhaite déployer mon site WordPress  
+
+** Target directory: laisser la valeur par défaut (à peu près C:\xampp\htdocs\wordpress\mystaticsite) 
+
+** Et pour finir j'ai lancé l’exportation !
+
+* Il faut ensuite initialiser le dépôt dans le répertoire mystaticsite une fois l'exportation effectué (git init et git remote add origin https://github.com/Yasmine07/cantine-vegane.git 
+
+* Sur l’appli GitHub Desktop faire File -> Add Local Repository (ou ctrl+o) et mettre le chemin de mystaticsite. On peut ensuite voir les fichiers exportés par l'extension dans GitHub Desktop. On fait un commit puis un push. Les fichiers sont dans le dépôt GitHub https://github.com/Yasmine07/cantine-vegane. GitHub génère automatiquement le site statique.
+
+* Pour les changements il suffit de faire ces manipulations sans initialiser le dépôt git.
+
+== Avec Simply static (ne fonctionne pas)
+
+Simpy static est une extention que j'ai d'abord installée afin de pouvoir déployer le site sur GitHub.
 
 * Création d'un référentiel de pages Github pour héberger le site WordPress statique
 
@@ -25,28 +43,3 @@ Simpy static est une extention que j'ai installée afin de pouvoir déployer le 
 * Retour sur Pages GitHub pour vérifier mon référentiel: je constate que le dépot a été effectué ( normalement je ne saurais le dire)
 
 * Site web initial déployé sur github https://yasmine07.github.io/cantine-vegane/[fond mais pas la forme]
-
-
-== Extension 2 avec WP2Statics
-
-* Téléchargement et installation de l'extention WP2Statics
-
-* Suppression de  tous les fichiers créés par Simply Static du clone de mon dépôt (sauf le README)
-
-* J'ai mis en marche l'extention:
-
-** Destination URL: j'ai mis le lien de ma page GitHub https://github.com/Yasmine07/site-web2[ici] et autre tentative sur https://github.com/Yasmine07/Ymane[ici également]
-
-** Target directory: le chemin du dossier de ton dépôt local GitHub)
-
-** Et pour finir j'ai lancé l’exportation !
-
-* Après avec l’appli GitHub Desktop j’ai fais push 
-
-* Malheureusement, sur le nouveau réferenciel crée pour recevoir le clone, rien ne s'est affiché
-
-* Contrairement à la 1ére extention, aucun fichier n'était affiché dans mon réferenciel.
-
-Avec ces deux extentions, j'ai fais de nombreuses tentatives mais je n'ai pas atteint, le but escompté.
-
-J'échangeais avec Barnabé qui essaiyait aussi de comprendre la cause de l'échec et de m'éclairer souvent.
