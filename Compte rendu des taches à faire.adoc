@@ -184,7 +184,7 @@ Cela fait en effat trois semaines que je travaille sur le thème: Exploration ex
 
 == Semaine 13
 
-* Liste de critéres pour experts
+* https://github.com/Yasmine07/D-lib-jugdment/blob/master/Crit%C3%A8res%20de%20s%C3%A9lection.adoc[Liste de critéres pour experts]
 
 * Contact de plusieurs personnalités 
 
