@@ -4,7 +4,7 @@ Mon stage a débuté le 24/02/2020 au laboratoire LAMSADE.
 Cela fait en effet  trois semaines que je travaille sur le thème: Exploration expérimentale du jugement délibéré sur la décision d'établir une cantine scolaire végane.
 
 
-== Semaine 1
+== Semaine 1 (semaine du 24 février)
 
 * Lecture de l'article sur le cadre formel pour le jugement délibéré.
 
@@ -25,7 +25,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 * Après avoir lu l'article sur le cadre formel du jugement délibére, M. CAILLOUX M'a facilité l'accès à sa bibliothèque. Cela, afin que je puisse lire l'ouvrage de MAKISSON et ainsi, pouvoir me familiariser avec la relation de relation binaire et mieux m'imprégner des artsur la théorie de la décision et spécifiquement les cadres théoriques.
 
 
-== Semaine 2
+== Semaine 2 (semaine du 02 mars)
 
 * Essai de compendre comment LaTeX et overleaf fonctionnaient.
 
@@ -36,13 +36,13 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 * Echanges avec Barnabé sur les sites web que nous avons consultés
 
 
-== Semaine 3
+== Semaine 3 (semaine du 9 mars)
 
 * Littérature sur wordpress
 
 * Echanges avec M. CAILLOUX suite à des difficultés à pouvoir écrire un résumé comparatif des sites web sous format asciidoctor
 
-* Ajout de nouvelles tachesafin de mieux cerner le fonctionnement de logiciel de traitement de texte
+* Ajout de nouvelles taches afin de mieux cerner le fonctionnement de logiciel de traitement de texte
 
 * Nouvelles taches
 
@@ -52,7 +52,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 
 3* Rédiger un petit texte en LaTeX en s'aidant du livre de LAMPART
 
-== Semaine 4
+== Semaine 4 (semaine du 16 mars)
 
 * Rédaction du rapport en asciidoctor et le convertir en html et l'envoyer sur github
 
@@ -67,7 +67,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 * Discussion téléphonique avec Olivier concernant la conduite à tenir ( début du confinnement)
 
 
-== Semaine 5
+== Semaine 5 (semaine du 23 mars)
 
 * Lecture de quelques lignes du livre de MAKISSON
 
@@ -75,7 +75,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 
 * 2éme discussion avec Olivier à propos de la réconduite du stage ( hypothéses de fausses vidéos ou d'auto-filmage des experts ou simplement mettre en place un modéle qui marche bien et sur lequel d'autres stages ou recherches pourront s'appuyer)
 
-== Semaine 6
+== Semaine 6 (semaine du 30mars)
 
 * Envoi du lien vers mon document écrit dans overleaf
 
@@ -86,7 +86,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 * Fin élaboration du protocole et envoi sur GitHub
 
 
-== Semaine 7
+== Semaine 7 (semaine du 06 avril)
 
 * Discussions avec Barnabé concernant le site web
 
@@ -96,7 +96,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 
 * Elaboration d'un brouillon (questionnement sur l'état de l'art du stage) afin de mieux comprendre ce qui tourne autour de la théorie de la décision
 
-== Semaine 8
+== Semaine 8 (semaine du 13 avril)
 
 * Création d'un nouveau site web (pour essayer de la déployer de nouveau et aussi pour donner une forme améliorée de ce que le sit web final ressemblerait): menu composé de 4 composantes ( experts, arguments, formulaire et accueil)
 
@@ -106,7 +106,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 
 * Partage du brouillon sur l'état de l'art à Olivier qui m'a proposé un livre: Bouyssou, Marchant, Pirlot, Perny, Tsoukiàs, Vincke - Evaluation and Decision Models: a critical perspective (2000)
 
-== Semaine 9 
+== Semaine 9 (semaine du 20 avril)
 
 * Lecture de quelques pages du livre Evaluation and Decision Models: a critical perspective (2000) de Bouyssou, Marchant, Pirlot, Perny, Tsoukiàs, Vincke.
 
@@ -116,7 +116,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 
 * Partage d'écran avec Barnabé et https://yasmine07.github.io/cantine-vegane/[site web déployé sur GitHub]
 
-== Semaine 10
+== Semaine 10 (semaine du 27 Avril)
 
 * Réunion visiconférence avec mes trois encadrants de stage : avec Olivier, nous avons fait le points aux autres à Nicolas et Yves et nous nos sommes donné un objectif à ourt terme d'une durée de une semaine (faire une liste potentielle d'experts)
 
@@ -134,7 +134,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 
 * https://github.com/Yasmine07/D-lib-jugdment/blob/master/Liste.adoc[Liste d'experts potentiels]
 
-== Semaine 11
+== Semaine 11 (semaine du 04 mai)
 
 * Réunion par visioconférence avec mes trois encandrants:
 
@@ -166,7 +166,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 
 * Continue la recherche parallélement pour avoir un autre expert qui serait aussi interessant
 
-== Semaine 12
+== Semaine 12 (semaine du 11 mai)
 
 ** Mail adressé à un chercheur avec de grands centres d'interets autour des plats végétalisés (recommendé par mon professeur d'école) pour avoir des pistes vers des personnalités qui auraients des arguments contre la cantine végane : pas de suite favorable ( intéressé mais pas de disponibilité)
 
@@ -182,7 +182,7 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 
 ** Nom d'un champion ''contre'' fournit par Nicolas ( Paul ARIES)
 
-== Semaine 13
+== Semaine 13 (semaine du 18 mai)
 
 * https://github.com/Yasmine07/D-lib-jugdment/blob/master/Crit%C3%A8res%20de%20s%C3%A9lection.adoc[Liste de critéres pour experts]
 
