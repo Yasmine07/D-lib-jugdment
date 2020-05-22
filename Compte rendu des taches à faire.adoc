@@ -210,15 +210,15 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 
 *** Questionnements à trancher
 
-*** Lien vers les suggestions sur le protocole initial ( les phrases en gras sont mes suggestions)
+*** https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc[Lien vers les suggestions] sur le protocole initial ( les phrases en gras sont mes suggestions)
 
 ** Formaliser l'accord avec les champions
 
 *** Pour le mode de récolte des vidéos, montage éventuel
 
-*** Le matériel à utilier
+*** Le matériel à utiliser
 
-*** Le temps imparti pour répondre aux arguments de l'autre expert, la durée d'une séquence de vidéo0 et autres aspects s'ils souhaitent les intégrer  
+*** Le temps imparti pour répondre aux arguments de l'autre expert, la durée d'une séquence de vidéo et autres aspects s'ils souhaitent les intégrer  
 
 ** Discussion concernant le dispositif actuel de l'étude: alternative végane versus végétarienne
 
