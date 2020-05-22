@@ -1,7 +1,7 @@
 = Compte rendu
 
 Mon stage a débuté le 24/02/2020 au laboratoire LAMSADE.
-Cela fait en effat trois semaines que je travaille sur le thème: Exploration expérimentale du jugement délibéré sur la décision d'établir une cantine scolaire végane.
+Cela fait en effet  trois semaines que je travaille sur le thème: Exploration expérimentale du jugement délibéré sur la décision d'établir une cantine scolaire végane.
 
 
 == Semaine 1
@@ -126,7 +126,7 @@ Cela fait en effat trois semaines que je travaille sur le thème: Exploration ex
 
 * Vegan-pratique; retour et fournit des pistes de contact pour experts potentiels
 
-* Mail envoyé au Pr BEGUE et retour (deux noms d'experts)
+* Mail envoyé au Pr https://www.avenue-centrale.fr/Laurent_Begue[BEGUE] et retour (deux noms d'experts)
 
 * Mail envoyé à http://www.alimentation-responsable.com/qui-sommes-nous[l'APSARes]
 
