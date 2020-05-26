@@ -20,3 +20,4 @@
 - Introduction aux commandes
 - Comparaison d'outils https://github.com/Yasmine07/D-lib-jugdment/blob/master/Comparaisonsites.adoc[sites web]
 - Elaboration : démarche pour déployer le site https://github.com/Yasmine07/D-lib-jugdment/blob/master/Demarches-site.adoc[document]
+- https://github.com/Yasmine07/D-lib-jugdment/blob/master/Crit%C3%A8res%20de%20s%C3%A9lection.adoc[Critères et indicateurs pour la méthodologie de sélection d'experts]
