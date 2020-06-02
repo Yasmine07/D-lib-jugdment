@@ -14,7 +14,7 @@
 
 * Mail envoyé à l’APSARes
 
-* Consultation de la liste de médecins ayant répondu en 2019 à l’ARMB au sujet des alimentations
+* Consultation de la liste de médecins ayant répondu en 2019 à l’ARMB au sujet de l'alimentation
 
 == Liste primaire d'experts
 
