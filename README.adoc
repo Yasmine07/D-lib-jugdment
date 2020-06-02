@@ -4,7 +4,6 @@
 - https://github.com/oliviercailloux/diet[Protocole diet mis à jour]
 - https://yasmine07.github.io/cantine-vegane/[site web]
 - Réflexions concernant le https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc[protocole]
-- Ebauche de site vers wordpress
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/Liste.adoc[Compte rendu et liste des experts potentiels]
 - Discussion avec l'équipe concernant le protocole 
 
