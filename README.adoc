@@ -1,17 +1,12 @@
 =  Activités du stage
 
 == En cours
-- https://github.com/oliviercailloux/diet[Protocole diet mis à jour]
 - https://yasmine07.github.io/cantine-vegane/[site web]
 - Réflexions concernant le https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc[protocole]
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/Liste.adoc[Compte rendu et liste des experts potentiels]
-- Discussion avec l'équipe concernant le protocole 
-
-
-
-== Futur
-- Discussion avec l'équipe concernant la recolte des vidéos, le montage vidéo
+- Discussion avec l'équipe concernant https://github.com/oliviercailloux/diet[le Protocole]
 - Littérature concernant la délibération (Fishkin & cie)
+
 
 
 == Réalisés
