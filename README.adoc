@@ -6,11 +6,12 @@
 - Ebauche de site vers wordpress
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/Liste.adoc[Compte rendu et liste des experts potentiels]
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/diet%20(12).pdf[brouillon article]
+- Discussion avec l'équipe concernant le protocole 
+- https://github.com/oliviercailloux/diet[Protocole diet mis à jour]
 
 
 == Futur
-- Choix des championS
-- Discussion avec l'équipe concernant le choix des champions, le protocole et le montage vidéo
+- Discussion avec l'équipe concernant la recolte des vidéos, le montage vidéo
 - Littérature concernant la délibération (Fishkin & cie)
 
 
@@ -21,3 +22,4 @@
 - Comparaison d'outils https://github.com/Yasmine07/D-lib-jugdment/blob/master/Comparaisonsites.adoc[sites web]
 - Elaboration : démarche pour déployer le site https://github.com/Yasmine07/D-lib-jugdment/blob/master/Demarches-site.adoc[document]
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/Crit%C3%A8res%20de%20s%C3%A9lection.adoc[Critères et indicateurs pour la méthodologie de sélection d'experts]
+- Choix des championS
