@@ -6,7 +6,6 @@
 - Réflexions concernant le https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc[protocole]
 - Ebauche de site vers wordpress
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/Liste.adoc[Compte rendu et liste des experts potentiels]
-- https://github.com/Yasmine07/D-lib-jugdment/blob/master/diet%20(12).pdf[brouillon article]
 - Discussion avec l'équipe concernant le protocole 
 
 
