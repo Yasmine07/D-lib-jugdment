@@ -3,7 +3,7 @@
 == En cours
 - https://yasmine07.github.io/cantine-vegane/[Site web]
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/Liste%20des%20experts%20et%20processus.adoc[Formation et liste des experts]
-- Discussion avec l'équipe concernant https://github.com/Yasmine07/D-lib-jugdment/blob/master/diet%20(15).pdf[le Protocole]
+- Discussion avec l'équipe concernant https://github.com/oliviercailloux/diet/[le Protocole]
 - Littérature concernant la délibération (Fishkin & cie)
 - Réflexions concernant le https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc[protocole]
 
