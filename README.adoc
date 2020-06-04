@@ -13,7 +13,7 @@
 - Mettre asciidoctor en local
 - Introduction aux commandes
 - Comparaison d'outils https://github.com/Yasmine07/D-lib-jugdment/blob/master/Comparaison%20outils%20de%20sites%20web.adoc[sites web]
-- Elaboration : démarche pour déployer le site https://github.com/Yasmine07/D-lib-jugdment/blob/master/Demarches-site.adoc[document]
+- Elaboration https://github.com/Yasmine07/D-lib-jugdment/blob/master/D%C3%A9marche%20site%20web.adoc[de document montrant les démarches pour déployer mon site web]
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/Crit%C3%A8res%20de%20s%C3%A9lection.adoc[Critères et indicateurs pour la méthodologie de sélection d'experts]
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/Protocole.adoc[Réflexions] concernant le protocole
 - Choix des champions
