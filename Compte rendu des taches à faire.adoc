@@ -275,6 +275,44 @@ Cela fait en effet  trois semaines que je travaille sur le thème: Exploration e
 
 ** Séance reportée ultérieurement (mercredi 10) afin de continuer les échanges et trouver u juste milieu, un consensus
 
+== Semaine 16 (semaine du 9 juin)
+
+* Réunion pour finaliser le protocole n'a pas eu lieu (cause d'indisponibilité d'un encadrant). Au vu des enjeux du protocole, une autre réunion regroupant tout le monde a été décidée (à la date du mardi 16 juin).
+
+* Résumé du livre Veganomics de Nick COONEY, un livre qui traite en partie de la facon dont les média (flyers, tv,dessin animé, vidéos...) influent sur le comportement alimentaire de personnes
+
+* Lien d'un article vers un site (pas accessible, car bloqué par le gouvernement)
+
+**  Toute une série de mesures (en utilisant le numéro DNS à travers des commandes) que Olivier m'a indiqué afin de pouvoir avoir accès au livre. 
+
+*** Cela a été fastidieux: en effet, après de multiples tentatives de ma part, le lien était toujours bloqué
+
+*** Un partage d'écran avec Olivier s'est tenu et cela n'a pas aboutit non plus (Olivier devrait s'en aller et m'a donné des directives pour terminer; cela s'est soldé par un echec)
+
+** J'ai utilisé le VPN pour avoir accés au lien et cela a bien marché
+
+== Semaine 17 (semaine du 15 juin)
+
+* Résumé du livre Stumbling on Happiness de Gilbert TODD et de Deliberative Politics in Action: Analyzing Parliamentary Discourse des auters: Jürg Steiner, André Bächtiger, Markus Spörndli, and Marco R. Steenbergen
+
+* Réunion du 16 juin avec les encadrants: 
+
+** 4 facons d'avoir une echélle avec curseur (fait par Barnabé) que Olivier nous a présenté afin de faire des amendements
+
+** Pourle contexte, proposition de Nicolas de passer par le contexte politique . En effet, à Berlin, une cantine végane a ete mise en place et est fonctionnelle et on se demane en France si ce modele ausi peut voir le jour (avec un article à l'appui pour aider à la formulation)
+
+** La mesure de openess des utilisateurs sera mésurée via u questionnaire de 2 questions en moyenne (NIcolas envoides references qui parlent de l'évaluation de openess)
+
+** J'ai propose de revoir les 1h30in mis pour la durée de l'expérimentation. Car en effet, ce temps n'attire pas les utilisateurs (car vraiment trop lon et risque meme de les faire fuir), et aussi car une telle expérience au dela d'un certain temps (45 min) ne requiert plus assez de concentration venant de lutilisateur et répondra de facon agacée ( ce qui pourra biaiser nos resultats).
+
+** Aprés analyse, nous avons décider de passer à 45 min et aprés ample reflexion, nous avons jugé de ne plus mettre le temps
+
+** Les critères socio-démoraphiques aussi feront parti du questonnaire (afin de pouvoir genererou degager des modéles genealisables).
+Les questionnaies socio-démographique, les questionnaires sur 'évaluation dde hopeness et ceux mesurant le jugement délibér seront posées en alternat avec es vidéos visionnées (chaque 2 vidéos en moyenne).
+
+** Aussi, unrécapitulatif sue les réponses de l'utilisateur sera faite et mentioné chaque 2 ou 3 vidéos pour avoir une belle interaction et motiver l'utilisateur a rester le plus longtemps que possible sur le site.
+
+
 
 
 
