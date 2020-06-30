@@ -4,6 +4,7 @@
 - https://yasmine07.github.io/cantine-vegane/[Site web]
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/Liste%20des%20experts%20et%20processus.adoc[Formation et liste des experts]
 - Discussion avec l'équipe concernant https://github.com/oliviercailloux/diet/blob/master/diet.pdf[le Protocole]
+- [https://github.com/Yasmine07/D-lib-jugdment/blob/master/Resume%20references%20jugement%20delibere.adoc]Résumé de references sur le jugement delibere
 - Littérature concernant la délibération (Fishkin & cie)
 
 
