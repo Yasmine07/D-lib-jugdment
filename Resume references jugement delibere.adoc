@@ -56,3 +56,25 @@ comprendre pleinement.
 * Ces mises en garde sont certainement empiriquement correctes, mais elles soulignent que les théoriciens délibératifs ne s'attendent pas en réalité à trouver le type idéal de délibération.
 
 * Pour étudier la politique empiriquement délibérative, l'idéal type de délibération doit être considéré comme le point final d'un continuum qui n'est jamais complètement atteint. La question empirique est alors de savoir à quelle distance les débats politiques sont du type idéal de délibération. Comme Dryzek (1990 : 87)
+
+
+=== file:///C:/Users/balim/Downloads/MercierSperberWhydohumansreason.pdf[Why do humans reason? Arguments for an argumentative theory]
+
+* Page 60: Si une personne de confiance nous dit quelque chose d'incohérentavec nos croyances précédentes, une révision est inévitable: Nous devons réviser notre confiance dans la source ou nos croyances précédentes. 
+
+* Nous choisirons probablement la révision qui rétablit la cohérence au moindre coût, et cela consistera souvent à accepter les informations communiquées et révisant nos croyances.
+
+* Quelles sont les options d'un communicateur voulant communiquer une information que le destinataire est peu susceptible d'accepter en toute confiance? 
+Une option peut être pour le communicateur de fournir des preuves de sa fiabilité dansl'affaire en question (par exemple, si les informations sont sur les questions de santé, elle pourrait informer le destinataire queelle est médecin).  
+
+* Page 61: plusieurs prédictions peuvent être tirées de l'argumentation de la théorie du raisonnement.
+
+* Le premier et le plus simple est que le raisonnement devrait bien faire ce pour quoi il a évolué: produire et évaluer des arguments (sect. 2.1 et 2.2). 
+En général, les adaptations fonctionnent mieux lorsqu'elles sont utilisées pour exécuter la tâche pour laquelle ils ont évolué. En conséquence,le raisonnement devrait produire ses meilleurs résultats dans les contextes argumentatifs, notamment dans les discussions de groupe(sect. 2.3).
+
+* Quand on veut convaincre un interlocuteur avec un point de vue différent, nous devrions chercher des arguments en faveur de notre point de vue plutôt qu'en faveur du sien.
+Par conséquent, la prochaine prédiction est que le raisonnement utilisé pour produire un argument devrait montrer une forte confirmation de biais (sect. 3). 
+
+* Une autre prédiction connexe est que, lorsque les gens raisonnent par eux-mêmes sur l'une de leurs opinions, ils sont susceptibles de le faire de manière proactive, c'est-à-dire dans un contexte dialogique, et surtout pour trouver des arguments qui soutiennent leur opinion. 
+
+* NB: Enfin, nous veulons explorer la possibilité que, même dans la prise de décision, la fonction principale du raisonnement est de produire pour convaincre les autres plutôt que de trouver la meilleure décision. Ainsi, nous prédisons que le raisonnement conduira les gens vers des décisions pour lesquelles ils peuvent argumenter -décisions qu'ils peuvent justifier - même si ces décisionsne sont pas optimales (sect. 5)
