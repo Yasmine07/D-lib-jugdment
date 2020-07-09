@@ -78,3 +78,39 @@ Par conséquent, la prochaine prédiction est que le raisonnement utilisé pour 
 * Une autre prédiction connexe est que, lorsque les gens raisonnent par eux-mêmes sur l'une de leurs opinions, ils sont susceptibles de le faire de manière proactive, c'est-à-dire dans un contexte dialogique, et surtout pour trouver des arguments qui soutiennent leur opinion. 
 
 * NB: Enfin, nous veulons explorer la possibilité que, même dans la prise de décision, la fonction principale du raisonnement est de produire pour convaincre les autres plutôt que de trouver la meilleure décision. Ainsi, nous prédisons que le raisonnement conduira les gens vers des décisions pour lesquelles ils peuvent argumenter -décisions qu'ils peuvent justifier - même si ces décisionsne sont pas optimales (sect. 5).
+
+
+=== Many Faces of Rationality: Implications of the Great Rationality Debate for Clinical Decision-Makinghttps://pubmed.ncbi.nlm.nih.gov/28730671/
+
+* Le contexte est d'une importance capitale pour la rationalité et qu'aucun modèle de rationalité ne peut s'adapter à tous les contextes. 
+
+* Nous suggérons que dans des situations pauvres en contexte, telles que la prise de décision politique, les théories normatives basées sur l'utilité attendue et éclairées par les meilleures preuves de recherche peuvent fournir l'approche optimale à la prise de décision médicale
+
+* Alors que dans les circonstances riches en contexte, d'autres types de rationalité, informé par l'architecture cognitive humaine et motivé par l'intuition et les émotions telles que le but de minimiser le regret, peut fournir une meilleure solution au problème en question. Le choix de la théorie selon laquelle nous opérons est important car il détermine à la fois la politique et notre prise de décision individuelle.
+
+* Ingrédients de base («principes») de rationalité couramment identifiés dans les modèles théoriques=table1
+
+P1: La plupart des grandes théories du choix conviennent que la prise de décision rationnelle nécessite des
+
+Avantages (gains)
+
+Dommages (pertes)
+
+afin d'atteindre nos objectifs (par exemple, une meilleure santé).
+P2: Il se produit généralement dans des conditions d' incertitude .
+
+L'approche rationnelle nécessite des preuves fiables pour faire face aux incertitudes inhérentes.
+
+S'appuie sur des processus cognitifs qui permettent l'intégration des probabilités / incertitudes.
+
+P3: La pensée rationnelle devrait être informée par l'architecture cognitive humaine .
+
+composé de processus de raisonnement de type 1, qui caractérisent le «vieil esprit» (basé sur l'affect, intuitif, rapide, économe en ressources) et les processus de type 2 (analytique et délibératif, axé sur les conséquences et laborieux) du «nouvel esprit»
+
+P4: La rationalité dépend du contexte et doit respecter les contraintes épistémologiques, environnementales et informatiques du cerveau humain
+
+P5: La rationalité (en médecine) est étroitement liée à l' éthique et à la moralité de nos actions
+
+nécessite la considération de l' éthique utilitaire (orientée vers la société), liée au devoir (orientée vers l'individu) et basée sur les droits (autonomie, «aucune décision à mon sujet, sans moi»)
+
+Le texte en gras identifie les principaux ingrédients de la rationalité.
