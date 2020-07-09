@@ -80,7 +80,7 @@ Par conséquent, la prochaine prédiction est que le raisonnement utilisé pour 
 * NB: Enfin, nous veulons explorer la possibilité que, même dans la prise de décision, la fonction principale du raisonnement est de produire pour convaincre les autres plutôt que de trouver la meilleure décision. Ainsi, nous prédisons que le raisonnement conduira les gens vers des décisions pour lesquelles ils peuvent argumenter -décisions qu'ils peuvent justifier - même si ces décisionsne sont pas optimales (sect. 5).
 
 
-=== Many Faces of Rationality: Implications of the Great Rationality Debate for Clinical Decision-Makinghttps://pubmed.ncbi.nlm.nih.gov/28730671/
+=== Many Faces of Rationality: Implications of the Great Rationality Debate for Clinical Decision-Making https://pubmed.ncbi.nlm.nih.gov/28730671/
 
 * Le contexte est d'une importance capitale pour la rationalité et qu'aucun modèle de rationalité ne peut s'adapter à tous les contextes. 
 
@@ -113,4 +113,3 @@ P5: La rationalité (en médecine) est étroitement liée à l' éthique et à l
 
 nécessite la considération de l' éthique utilitaire (orientée vers la société), liée au devoir (orientée vers l'individu) et basée sur les droits (autonomie, «aucune décision à mon sujet, sans moi»)
 
-Le texte en gras identifie les principaux ingrédients de la rationalité.
