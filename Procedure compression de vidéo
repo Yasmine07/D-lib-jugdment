@@ -1,0 +1,27 @@
+= Etapes pour la compression de la vidéo
+
+* Installation du logiciel VLC
+
+* Aller dans l'emplacement de la vidéo que l'on souhaite compréssée
+
+* Ouvrir la vidéo à l'aide du lecteur VLC
+
+* Debut de la lecture de la vidéo dans l'interface VLC: mettre la vidéo sur pause et continuer avec les manipulations suivantes
+
+* Cliquer sur Media (situé en haut à gauche de l'interface), puis choisir l'option convertir enregistrer
+
+* Choix de la vidéo que l'on souhaite compressée (chemin) : puis cliquer sur ouvrir
+
+* Cliquer sur profil: et choisir l'option video for MPEG4 1082 p/ Tv devive
+
+* Choisir l'emplacement ou le chemin, ainsi que le nom de la vidéo finale (celle qui sera compressée)
+
+* Cliquer sur enregistrement demaré
+
+* Une fois l'enregistrement finit, on peut fermer VLC
+
+* Regarder à l'endroit souhaité pour l'emplacement de la vidéo compressée : on y retrouvera notre vidéo comportant le nom que nous lui avons attribué 
+
+* Vérifier dans propriétés de la vidéo pour voir de combien d'octets nous avons réussi à diminuer
+
+* fin
