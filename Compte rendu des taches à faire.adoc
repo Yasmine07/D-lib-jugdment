@@ -350,6 +350,65 @@ Les questionnaies socio-démographique, les questionnaires sur l'évaluation de 
 
 ** Quelques lignes du livres de Mercier
 
+= Semaine 20 ( semaine du 6 juin)
+
+* Plusieurs tentatives pour contacter M. DENHEZ: qui ne donnait pas de nouvelles
+
+* Réunion: Mise au point de la semaine et attente du retour de M. DENHEZ
+
+* Finalement: en fin de semaine j'ai pu contacter M. DENHEZ qui m'a donner rendez-vous pour lasemaine suivante car il était en vaccances
+
+* Lecture de quelques articles : état de l'art sur le sujet de stage
+
+= Semaine 21 (semaine du 13)
+
+* Lecture de quelques articles : état de l'art sur le sujet de stage
+
+* Réunion: mise au point de la situation (pas eu de changements, on attendait les vidéos)
+
+* Relance de M. DENHEZ qui finalement m'a promis de m'envoyer une vidéo le vendredi matin
+
+* Vendredi soir: la vidéo a éte envoyée
+
+= Semaine 22 (semaine du 20)
+
+* Lecture de quelques articles : état de l'art sur le sujet de stage
+
+* Envoi de la vidéo à l'ensemble de mes encadrants
+
+* Réunion le 23 juin: mes encadrants n'ayant pas encoure regardé la vvidéo, j'ai fais un résumé de ce qui est dit 
+
+* Chercher un logiciel qui compresse efficacement la vidéo (qui faisait 3,42 Go: cela est très lourd et supporter plusieurs vidéos du type sur internet ne sera pas évident)
+
+* Olivier m'a partagé son owncloud pour que j'y telecharge les vidéos ( celle brute et celle que j'aurai compressée et toutes celles que je compresserais par la suite)
+
+* Avec le logiciel VLC et Handbrake, j'aai pu comprésser les vidéo efficacement de 209 Mo et de 265 Mo respectivement. Des 2, la vidéo compressée avec VLC était la meilleure en termede qualité d'image, de synchronisation (audio et vidéo) , ainsi que la moins lourde.
+
+* Réunion le 24 juin:
+
+* Une autre réunion s'est tenue le lendemain de la réunion précédente pour d'échanger sur le fond de la vidéo 
+
+* Globalement, les arguments étaient bien structurés, relativement clair : pour Yves
+
+* Pour Nicolas: très bonne vidéo: claire, sans ambiguité (fait bien la différence entre le vegetarisme et le veganisme, chose pas toujours évidente pour tout le monde);
+
+* Aspect brouillon de la vidéo, cependant donne une proximité avec le lecteur qui le suit;
+
+* Joue bien le role de l'expert: personne bien informée sur le sujet, le cahier de charge bien remplit et respecté
+
+=== Ajout:
+
+* Donner une nouvelle consignes pour les vidéos prochaines:
+
+* Répondre par plusieurs vidéos (c'est à dire un argument par vidéo) pour répondre à une vidéo (qui aurait émis plusieurs arguments), mains aussi, ne pas empecher les champions de répondre en une vidéo plusieurs points
+
+* La nouvelle formulation serait: vous avz le choix entre répondre en une ou plusieurs vidéo de votre interlocuteur, ou de produire une vidéo qui ne répond pas à l'argument de son interlocuteur, mais qui serait une vidéo avec un nouvel argument qu'il/elle désire souligner.
+
+* Chose interressante à faire également: faire un résumé sur la structuration des arguments émis dans chaque vidéo par écrit, et caracteriser aussi le type d'argument émis
+
+* A cet effet, Nicolas a patagé un lien google qui contient, un petit résumé de ce qu'il a retenu des arguments de M. DENHEZZ, et nous completerons ce document avec lui.
+
+
 
 
 
