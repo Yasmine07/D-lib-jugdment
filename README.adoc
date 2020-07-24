@@ -6,6 +6,7 @@
 - Discussion avec l'équipe concernant https://github.com/oliviercailloux/diet/blob/master/diet.pdf[le Protocole]
 - https://github.com/Yasmine07/D-lib-jugdment/blob/master/Resume%20references%20jugement%20delibere.adoc[Résumé de references sur le jugement delibere]
 - Littérature concernant la délibération (Fishkin & cie)
+- https://docs.google.com/document/d/1jOkQhVzEDEye7UQJNNPKqEbY0jZofEo99K1lzKgFdqI/edit?usp=sharing[Document collaboratif] sur la structuration et la caractérisation des argumentations vidéos des champions
 
 
 
