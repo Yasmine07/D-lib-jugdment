@@ -3,7 +3,7 @@
 == En cours
 - https://yasmine07.github.io/cantine-vegane/[Site web]
 - Discussion avec l'équipe concernant https://github.com/oliviercailloux/diet/blob/master/diet.pdf[le Protocole]
-- https://github.com/Yasmine07/D-lib-jugdment/blob/master/Resume%20references%20jugement%20delibere.adoc[Résumé de references sur le jugement delibere]  https://github.com/Yasmine07/D-lib-jugdment/blob/master/R%C3%A9sum%C3%A9flyer.adoc[et du livre sur le'influence des média sur le comportement alimentaire]
+- https://github.com/Yasmine07/D-lib-jugdment/blob/master/Resume%20references%20jugement%20delibere.adoc[Résumé de references sur le jugement delibere]  https://github.com/Yasmine07/D-lib-jugdment/blob/master/R%C3%A9sum%C3%A9flyer.adoc[et du livre sur l'influence des médias sur le comportement alimentaire]
 - https://docs.google.com/document/d/1jOkQhVzEDEye7UQJNNPKqEbY0jZofEo99K1lzKgFdqI/edit?usp=sharing[Document collaboratif] sur la structuration et la caractérisation des argumentations vidéos des champions
 
 
